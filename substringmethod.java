@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class substringmethod {
+public class Substringmethod {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String S = in.next();
