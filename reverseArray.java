@@ -8,7 +8,7 @@ public class reverseArray {
 
         for(int i= num1.length-1 ; i>= 0 ; i--){
             int num2 = num1[i];
-            System.out.println(num2);
+            System.out.print(num2 + " ");
         }
     }
 }
