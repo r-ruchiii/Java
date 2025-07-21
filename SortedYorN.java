@@ -22,7 +22,7 @@ public class SortedYorN {
         
         boolean isSorted = true;
 
-        for(int j=0; j<arr.length-1; j++){
+        for(int j=0; j<arr.length; j++){
             if(arr[j] > arr[j+1]){
                isSorted = false;
                break;
